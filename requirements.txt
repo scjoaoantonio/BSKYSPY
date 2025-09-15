@@ -1,0 +1,43 @@
+# Pacotes essenciais
+streamlit
+folium
+streamlit-folium
+pandas
+numpy
+scipy==1.13.1
+scikit-learn
+matplotlib
+seaborn
+plotly
+statsmodels
+altair
+networkx
+streamlit-option-menu
+
+# Pacotes de NLP e Machine Learning (ajustados para evitar problemas no deploy)
+nltk
+gensim==4.3.3
+spacy
+wordcloud
+huggingface-hub
+transformers
+pyLDAvis
+vaderSentiment
+
+# Dependências web e API
+requests
+httpx
+beautifulsoup4
+lxml
+flask
+flask-cors
+flask-login
+
+# Dependências extras
+joblib
+tqdm
+regex
+protobuf
+pydantic
+python-dotenv
+PyYAML
